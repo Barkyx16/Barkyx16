@@ -42,7 +42,7 @@ Currently building with:
 
 # 🚀 Featured Projects
 
-## 🌱 Pocket Planter
+## 🌱 Pocket Planter (Available on IOS on the App Store)
 
 Repo: https://github.com/Barkyx16/Pocket-Planter.git
 
