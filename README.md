@@ -1,10 +1,26 @@
-# Hi, I'm Alex 👋
 
-## Software Engineer | Mobile App Developer
+  Hey, I'm Alex 👋
 
-I build real-world applications focused on creating useful, user-friendly experiences.
 
-Currently developing mobile apps with React Native, Expo, and Supabase while exploring AI, cloud technologies, and modern software architecture.
+
+  Software Engineer | Mobile App Developer | Building Real-World Applications 🚀
+
+
+
+  React Native • Expo • Supabase • AI • Full-Stack Development
+
+
+---
+
+## About Me
+
+I'm a Software Engineering student who enjoys turning ideas into real, working products.
+
+I’m passionate about building mobile applications, exploring new technologies, and creating software that solves real problems for everyday users.
+
+I started programming at a young age and have always enjoyed learning how things work, breaking down problems, and building solutions from scratch.
+
+Currently, I'm focused on mobile development, cloud technologies, and exploring how AI can improve the way we build software.
 
 ---
 
@@ -12,51 +28,61 @@ Currently developing mobile apps with React Native, Expo, and Supabase while exp
 
 ### 🌱 Pocket Planter
 
-A smart gardening assistant designed to help users grow plants more effectively.
+A mobile gardening assistant built to help users grow plants smarter and make gardening more accessible.
 
 **Built With:**
 - React Native
 - Expo
 - Supabase
-- APIs
 - JavaScript
+- APIs
 
-Features:
-- Plant recommendations
-- Garden planning
-- Weather integration
-- Plant journal
-- User accounts
+**Features:**
+- Personalized plant recommendations
+- Garden planning tools
+- Weather-based insights
+- Plant journal and tracking
+- User accounts and cloud data
 
+---
 
 ### 🔥 Streakly
 
-A habit tracking application focused on helping users build consistency.
+A habit tracking application designed to help users stay consistent and build better routines.
 
 **Built With:**
 - React Native
 - Expo
+- Mobile Development Tools
 
+**Features:**
+- Habit tracking
+- Progress monitoring
+- User-focused experience
 
 ---
 
-## 💻 Technologies
+## 💻 Technologies & Tools
 
-**Languages**
+### Languages
 - Java
 - JavaScript
 - TypeScript
 - C
 - Python
 
-**Frameworks & Tools**
+### Frameworks & Platforms
 - React Native
 - Expo
 - Supabase
+- Node.js
+
+### Developer Tools
 - Git
 - GitHub
 - VS Code
-
+- Gradle
+- Firebase
 
 ---
 
@@ -66,7 +92,13 @@ A habit tracking application focused on helping users build consistency.
 - Machine Learning
 - Backend Development
 - Cloud Architecture
+- Software Design Patterns
 
+---
+
+## 🎯 Goals
+
+My goal is to continue building meaningful software, improve as an engineer, and create products that have a positive impact on people's lives.
 
 ---
 
