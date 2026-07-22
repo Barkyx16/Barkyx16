@@ -24,6 +24,22 @@ Currently building with:
 
 ---
 
+---
+
+# 🏆 Certifications & Professional Learning
+
+- [SQL Foundations](https://www.coursera.org/account/accomplishments/records/1X2ECGZ932FH)
+
+- [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/account/accomplishments/records/U55STO2MG9J8)
+
+- [AI Fundamentals](https://www.coursera.org/account/accomplishments/records/GB2574MPB70C)
+
+- [Object Oriented Programming in Java](https://www.coursera.org/account/accomplishments/records/T1BN4VDPC368)
+
+- [Security, Maintenance & Integration with BI Tools](https://www.coursera.org/account/accomplishments/records/DDM86SX958J7)
+
+---
+
 # 🚀 Featured Projects
 
 ## 🌱 Pocket Planter
