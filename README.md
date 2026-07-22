@@ -151,5 +151,6 @@ I want to continue growing as a software engineer by building meaningful softwar
 
 # 📫 Connect With Me
 
+LinkedIn: https://www.linkedin.com/in/alexander-rafalski-6b5485308/
 GitHub:
 https://github.com/Barkyx16
