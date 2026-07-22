@@ -1,3 +1,5 @@
+![Alex Rafalski Banner](assets/banner.png)
+
 # Hey, I'm Alex 👋
 
 ## Software Engineer | Mobile App Developer | Building Real-World Applications 🚀
