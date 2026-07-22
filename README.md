@@ -28,6 +28,8 @@ Currently building with:
 
 ## 🌱 Pocket Planter
 
+App Store Link: https://apps.apple.com/us/app/pocket-planter-garden-planner/id6768810301
+
 A mobile gardening assistant designed to help users grow plants smarter and make gardening more accessible.
 
 Pocket Planter combines plant information, personalized recommendations, weather insights, and tracking tools into one simple mobile experience.
