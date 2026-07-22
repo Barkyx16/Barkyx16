@@ -1,4 +1,4 @@
-![Alex Rafalski Banner](assets/banner.png)
+![Alex Rafalski Banner](banner.png)
 
 # Hey, I'm Alex 👋
 
